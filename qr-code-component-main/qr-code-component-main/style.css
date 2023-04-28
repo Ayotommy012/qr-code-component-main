@@ -1,0 +1,12 @@
+body{
+    background-color: ;
+  }
+  .cards{
+    background-color: hsl(0, 0%, 100%);
+    box-shadow: 0 4px 8px;
+  }
+  .container{
+    padding: 2px 16px;
+  }
+  .attribution { font-size: 11px; text-align: center; }
+  .attribution a { color: hsl(228, 45%, 44%); }
